@@ -65,7 +65,7 @@ public class App
       finally {
     	  session.close();
 		  
-		   System.out.println("finally");
+		   System.out.println("finlly");
 		   sessionFactory.close(); 
 	}
     }
