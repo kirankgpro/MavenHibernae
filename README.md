@@ -1,2 +1,2 @@
 # MavenHibernae
-hibernate
+hibernate hib
