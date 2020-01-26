@@ -1,18 +1,1 @@
-sample text
-
-
-second sample text
-
-ok
-
-
-creating a secod branch
-
-
-
-creting merge conflict
-
-testing again
-
-2nd test update done
- 
+first modifiacation from ktemp
